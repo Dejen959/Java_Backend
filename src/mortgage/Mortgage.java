@@ -1,4 +1,4 @@
-package mortgage
+package mortgage;
 import java.text.NumberFormat;
 import java.util.Scanner;
 public class Mortgage {
